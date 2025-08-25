@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi, I'm *Prajjwal Tripathi*
+# 🚀 Hi, I'm *Ahad Ahmad*
 
 ### A passionate human being crafting digital experiences...
 
