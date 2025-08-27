@@ -140,11 +140,8 @@ Development roles to contribute to innovative engineering teams and grow as a de
 | 🌟 *Project* |         📝 *Description*          |                  🔗 *Demo*                  |
 | :------------: | :---------------------------------: | :-------------------------------------------: |
 | *Disease Prediction System* |   Instantly check your health    | [📝 Explore](https://disease-prediction-system-qr1m.onrender.com)  |
-| *BookMyCab* | Simplest Way To Book a Ride | [🚀 Book Now](https://vercel.com/prajjwal-tripathis-projects-ab55a7a8/uber-clone) |
 | *Weather* | Keep An Update of the weather Around you | [✨ Check Now](https://app-weather-h97i.onrender.com) |
 |   *Chess*   |      Multiplayer Chess Game      |   [🎵 Play Now](https://chess-7bap.onrender.com)    |
-| *Landing Page With 3D Model* | Look Around | [🚀 Check it Out](https://landingpage-zeta-sepia.vercel.app/) |
-
 </div>
 
 ---
