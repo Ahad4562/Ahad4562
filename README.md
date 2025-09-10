@@ -141,7 +141,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 | :------------: | :---------------------------------: | :-------------------------------------------: |
 | *Disease Prediction System* |   Instantly check your health    | [📝 Explore](https://disease-prediction-system-qr1m.onrender.com)  |
 | *Weather* | Keep An Update of the weather Around you | [✨ Check Now](https://app-weather-h97i.onrender.com) |
-|   *Chess*   |      Multiplayer Chess Game      |   [🎵 Play Now](https://chess-7bap.onrender.com)    |
+| *C-Proctored-Exam_webapp* | A secure, proctored web application for conducting and tracking C programming language assessments | [Test Your Knowledge ](https://proctored-web-app.web.app)  |
 </div>
 
 ---
